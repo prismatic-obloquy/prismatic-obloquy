@@ -4,8 +4,8 @@ If you're very good, you can probably find me elsewhere, and if you do, I'll see
 Alternatively, enjoy [my blog], maybe explore [some demos], maybe [learn some coding].
 (And if any of those links don't work, be patient; they will soon.)
 
- [prismatic]: https://www.merriam-webster.com/dictionary/prismatic
- [obloquy]: https://www.merriam-webster.com/dictionary/obloquy
+ [prismatic]: https://www.merriam-webster.com/dictionary/prismatic "10"
+ [obloquy]: https://www.merriam-webster.com/dictionary/obloquy "4"
 
  [my blog]: https://prismatic.obloquy.work/blog
  [some demos]: https://prismatic.obloquy.work/demos
