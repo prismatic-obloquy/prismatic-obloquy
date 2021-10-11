@@ -4,18 +4,14 @@ If you're very good, you can probably find me elsewhere, and if you do, I'll see
 Alternatively, enjoy [my blog], maybe explore [some demos], maybe [learn some coding].
 (And if any of those links don't work, be patient; they will soon.)
 
- [prismatic]: https://www.merriam-webster.com/dictionary/prismatic "10"
- [obloquy]: https://www.merriam-webster.com/dictionary/obloquy "4"
+Oh, and if you find security problems in my software, [contact me] as soon as you can.
 
- [my blog]: https://prismatic.obloquy.work/blog
- [some demos]: https://prismatic.obloquy.work/demos
- [learn some coding]: https://prismatic.obloquy.work/learn
+With love,  
+-prob
 
-<!--
-And if you're at least a little bit technical and curious:
-
-ctf.obloquy.work
-
-The highest scores get on the leaderboard!
-(It's manual, though, so be patient if it takes some time.)
--->
+  [prismatic]: https://www.merriam-webster.com/dictionary/prismatic "10"
+  [obloquy]: https://www.merriam-webster.com/dictionary/obloquy "4"
+  [my blog]: https://prismatic.obloquy.work/blog
+  [some demos]: https://prismatic.obloquy.work/demos
+  [learn some coding]: https://prismatic.obloquy.work/learn
+  [contact me]: https://prismatic.obloquy.work/insecurity
