@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/prob
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://prismatic.obloquy.work
+  * I am prob (https://keybase.io/prob) on keybase.
+  * I have a public key with fingerprint BAA0 407A 9E69 7744 8EED  0B8B EB4F 6F01 A7D3 9614
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012d5caa6ab7de7881bb93862d9dde8953df68da569ef17fcf937a01868f6b85050a",
+      "fingerprint": "baa0407a9e6977448eed0b8beb4f6f01a7d39614",
+      "host": "keybase.io",
+      "key_id": "eb4f6f01a7d39614",
+      "kid": "01012d5caa6ab7de7881bb93862d9dde8953df68da569ef17fcf937a01868f6b85050a",
+      "uid": "ebd000993b178bfb57619419db3ee819",
+      "username": "prob"
+    },
+    "service": {
+      "hostname": "prismatic.obloquy.work",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634499972,
+  "expire_in": 157680000,
+  "prev": "81176301f6cf4874854bd86cccd6c34c884c313912aac7f072e114f2e95573d7",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJ9aE5RHMef2ZB5iTWrJaVr/LU97rlv55ynlBZ/UISSl7Gnc+4599nd
+nt377Ln32QxPlJeMCJEQYSQvxcQim21ie8YoEYvIFPKaJGyIc4W//Omv0znn+/38
+vr9fv6sjs0O5WUXfGpd0bXi/OOtGx/5UiMTT61ZK1GX1UmSlVMV/HTzOuOdHq2wm
+RSQZyEBhukmIQShkHCIEKMUqMhSGGeMI6yqzDMSIbmBuAWiZFlYhkQEykGVQpMu6
+TKRiybKdGE8mkrbjCywlRNZkSDA3MISahjhnMkWUU80yLBkQyFRsAE0YK1wvcIhw
+lHg8bLviTVyiv+L9Q/+fc6d+12GyLGOsUgARtagODYA1gBlVOUcAB0KPJx1SzYU6
+kXSplC6WxEutbfJgqEEXf39tr5r4thl2adytSdWH69xklSAIm++ablxoKnw/4UUC
+hl+fCEx1nEZ/46LUdpiYpnDU8qRnu44UAUJp+nbAB4aqaRhjqBRLfHnCTvKoHShE
+ZCR6kIM6vFYgEQDQUGVgGaalIaghXaMMGaZpMsNUNRMhzVSBioFCiAktGSocAM1S
+ONZ1qDIoBQ3WOK4U0URMEhNIz445xE8luZS+0r40J5SVGxoyeFCwZaHcYaP/7N6y
+iqE/ypRBzp0tlUvHjh+YNQH1vRpubpvd2dk735t37Gw8r3X6meb+5yUf2X5jb/PR
+lDJsU39D/vJV40/3ry1/ufF1S2/dzSnlHYc/uC92fXnz6eDHvMvHZ3xvzG6es3rx
+uXHPEgcW7ZlZWAndpr3mpeKySU9KxoWzO6aNOTUk1X2xtXRJWNnsFHY1hEZdejOi
+aWdr1a13F2+hp7vTRZn+qaV9G1fkFOx8ABonVi4sRJl0SXu9qpYNTJkaO7TuCepe
+c2HPvvXt9zLhI2MyXcPXFtxfk/lxtGjuw1jt3Z628zg/FJYmfz/x+cOC8h05ndsf
+vX1wpHTr9d62+y2N1772aAcez4j1ncy6Xf30J0/ETBQ=
+=3niZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/prob
+
+==================================================================
