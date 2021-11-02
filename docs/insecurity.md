@@ -24,4 +24,4 @@ It may take me a couple days to get back to you, and longer still to get a fix o
 
 Thanks!
 
-  [email me]: mailto:prismatic@obloquy.work?subject=ipOR%20security%20issue&body=Please%20be%20detailed.%20If%20you%20have%20a%20proof%20of%20concept%2C%20all%20the%20better.
+  [email me]: mailto:prismatic@obloquy.work?subject=%5Bproject%5D+security+issue&body=Please+be+detailed.+If+you+have+a+proof+of+concept%2C+all+the+better.
